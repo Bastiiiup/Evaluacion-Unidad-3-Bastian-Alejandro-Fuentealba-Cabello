@@ -52,5 +52,4 @@ Alternativamente, desde la **línea de comandos**:
     ```bash
     java -cp bin app.main
     ```
-
-El sistema te mostrará un menú interactivo en la consola para empezar a operar.
+Ahi estara el menu del sistema que se usara para operar.
